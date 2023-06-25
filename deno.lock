@@ -1,0 +1,32 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/std@0.184.0/_util/asserts.ts": "178dfc49a464aee693a7e285567b3d0b555dc805ff490505a8aae34f9cfb1462",
+    "https://deno.land/std@0.184.0/flags/mod.ts": "4d829c5bd1d657799cdeb487c6e418960efc6f4d8ce6cadc38a54b9ce266160a",
+    "https://deno.land/x/args@2.1.1/command-errors.ts": "e0a734c47d37c7ea0bd473027d6e5abf428bacb859e2434ee9b9acf1ead9c45f",
+    "https://deno.land/x/args@2.1.1/command-types.ts": "ac68e8dd1896eb8ae493f14c787da393816864ae27207bae7fff6ba2b8612daa",
+    "https://deno.land/x/args@2.1.1/deps.ts": "c96eb3cf9ba1ed9e4a7645484b08874567b1153d66f976c12864afe4ba4c1556",
+    "https://deno.land/x/args@2.1.1/flag-errors.ts": "e5a3d5a7ceac7a779eeadcafa2c4e7216dd6c889592d6594979274a0ba62f38d",
+    "https://deno.land/x/args@2.1.1/flag-types.ts": "6428b32f16d1d40bf8cd8bba941f71fd186f4acec2127027753cd9024ca0ec20",
+    "https://deno.land/x/args@2.1.1/help.ts": "4dd07ecb4c3e4b258da28f51ead5190cd0ea52895171be96836d9a413c3ab21d",
+    "https://deno.land/x/args@2.1.1/index.ts": "178b78ab0e0e4332dcc4235283e49064ff318b1f70db86cd9f9b2bc3f43a57e9",
+    "https://deno.land/x/args@2.1.1/symbols.ts": "2883581f3d83cfd7b400b30ceea78d8a3f56f408b32e683e66f17367323b7678",
+    "https://deno.land/x/args@2.1.1/types.ts": "25c633a66a7da12ce231cd3031ff2df888f6b41bafc10fcc2f01f38cf1504088",
+    "https://deno.land/x/args@2.1.1/utils.ts": "b13bf59cf6828f3bc03853b8b05273fd90f2077942f15aebedc41000af8d4b48",
+    "https://deno.land/x/args@2.1.1/value-errors.ts": "51728ca0752fd4e4be3e05006a4f7276a1b779e69bb8e7b6515a0bf2d8f8531d",
+    "https://deno.land/x/args@2.1.1/value-types.ts": "c3106445d3a692e86e2e88c1ead9db59f7d4b4568de67b29995c7d5876fd5c29",
+    "https://deno.land/x/args@2.1.1/wrapper.ts": "70889555693153f61c02a8c42e9428a6f0e0b20ff3a32e0fad7c23a5ddd415b8",
+    "https://deno.land/x/once@0.2.1-ts/index.ts": "459257c9a212c8202152563f3c04b708bc013e49288982e693e6c8292da3541b"
+  },
+  "npm": {
+    "specifiers": {
+      "ts-pattern": "ts-pattern@4.3.0"
+    },
+    "packages": {
+      "ts-pattern@4.3.0": {
+        "integrity": "sha512-pefrkcd4lmIVR0LA49Imjf9DYLK8vtWhqBPA3Ya1ir8xCW0O2yjL9dsCVvI7pCodLC5q7smNpEtDR2yVulQxOg==",
+        "dependencies": {}
+      }
+    }
+  }
+}
